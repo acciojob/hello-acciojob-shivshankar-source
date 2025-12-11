@@ -1,1 +1,12 @@
-//your code here
+  #job.accio {
+    width: 150px;
+    height: 150px;
+    background-color: #000000;
+  }
+
+  /* Styling the paragraph */
+  .hello-accio {
+    color: #ffffff;
+    margin-left: 32px;
+    padding: 10px;
+  }
